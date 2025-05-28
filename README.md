@@ -11,4 +11,5 @@
 ### (2) Centre for Health Economic Research and Modelling Infectious Diseases, Vaccine and Infectious Disease Institute, University of Antwerp, BE-2000 Antwerpen, Belgium
 
 **For the data used in this work as well as the resulted model fit and simulation, please visit Zenodo repository**
-10.5281/zenodo.15533888
+https://zenodo.org/records/15533888
+DOI:10.5281/zenodo.15533888
