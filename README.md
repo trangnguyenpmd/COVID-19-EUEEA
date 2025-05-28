@@ -10,5 +10,5 @@
 ### (1) Data Science Institute, I-BioStat, Hasselt University, BE-3500 Hasselt, Belgium
 ### (2) Centre for Health Economic Research and Modelling Infectious Diseases, Vaccine and Infectious Disease Institute, University of Antwerp, BE-2000 Antwerpen, Belgium
 
-**For the data used in this work as well as the resulted model fit and simulation, please visit:**
-https://drive.google.com/drive/folders/1ueJ1JFK0Wa65y_6aT5xMpWmgYHjUnln3?usp=sharing
+**For the data used in this work as well as the resulted model fit and simulation, please visit Zenodo repository**
+10.5281/zenodo.15533888
